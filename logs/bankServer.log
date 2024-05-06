@@ -1,0 +1,6 @@
+2024-05-06 11:36:15 - Starting BankServerApplication v0.0.1-SNAPSHOT using Java 22 with PID 1 (/bankServer.jar started by root in /)
+2024-05-06 11:36:15 - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-06 11:36:15 - No active profile set, falling back to 1 default profile: "default"
+2024-05-06 11:36:22 - Filter 'jwtAuthenticationFilter' configured for use
+2024-05-06 11:36:26 - Started BankServerApplication in 14.151 seconds (process running for 17.578)
+2024-05-06 11:37:54 - User roman signed up successfully
